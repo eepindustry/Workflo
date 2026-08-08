@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507842478878",
+    "firebase_url": "https://mera-khud-ka-app-default-rtdb.firebaseio.com",
+    "project_id": "mera-khud-ka-app",
+    "storage_bucket": "mera-khud-ka-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507842478878:android:3b470ce5aa2c75ea81ff0f",
+        "android_client_info": {
+          "package_name": "com.eepapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507842478878-75l06cdta7fagvag135252vs93p2g9t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eepapps",
+            "certificate_hash": "f34fb5b26e86a512e9fe65e6cf4d727c89ae0c0f"
+          }
+        },
+        {
+          "client_id": "507842478878-ov7uglfkv2qchdiouf9espuijckjsbbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6GcwPUn03Lliy5Ie6123xa0zTS6Mmz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507842478878-9ui95o85151cgbjmpbqoajjunuff1qef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
